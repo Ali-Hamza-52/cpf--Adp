@@ -1,12 +1,11 @@
 import React from 'react'
 
-const page = () => {
+const IconNavigationLink = () => {
   return (
     <div>
-      i am homepage
       
     </div>
   )
 }
 
-export default page
+export default IconNavigationLink
